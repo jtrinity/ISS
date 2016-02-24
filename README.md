@@ -1,4 +1,4 @@
-###The ISS
+###The Station
 The International Space station is a collaboration between 26 countries to maintain a platform for space exploration and research. Flying 400km above the surface of the Earth, it is the largest and most visble man-made object in space and can be seen from almost anywhere on the planet as it completes an orbit every 90 minutes.
 
 ###The Learning Objective
