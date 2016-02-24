@@ -10,6 +10,17 @@ Astronaut Swanson has experienced a failure of the SAFER propulsion system after
 ###The Video
 <iframe width="420" height="315" src="https://www.youtube.com/embed/VDDnuZAL9ps" frameborder="0" allowfullscreen></iframe>
 
+###Where Is The ISS Right Now?
+
+<script type="text/javascript">
+var c = document.cookie.indexOf('esamobile=');
+var d = (c==-1) ? -1 : document.cookie.charAt(c + 10);
+winnerWidth=window.innerWidth;
+//alert(d+' '+winnerWidth);
+if (d == 0 || (d == -1 && winnerWidth >= 1017))
+	window.location = 'http://www.esa.int/Our_Activities/Human_Spaceflight/International_Space_Station/Where_is_the_International_Space_Station'
+</script>
+    
 ###Acknowledgements
 ISS and EMU model provided by [NASA and Dark Side of the Jam](https://www.assetstore.unity3d.com/en/#!/content/756).
 
