@@ -16,6 +16,9 @@ Astronaut Swanson has experienced a failure of the SAFER propulsion system after
 ###The Simulation
 <iframe width="420" height="315" src="https://www.youtube.com/embed/VDDnuZAL9ps" frameborder="0" allowfullscreen></iframe>
 
+###Presence
+Implementing an effective training simulation demands a high sense of presence. To create a convincing environment, we used models of the ISS and EMUs developed in collaboration with NASA. The player has a body so that when they look down they can see their suit and propulsion system and really 'feel' in the hotseat. One of the main purposes the sim is to accustom the user to making their way around outside of the station, so we have implemented movement which simulates the difficulty of navigating in a zero gravity environment. If the astronaut is not careful and runs into a rail, they can easily send theirself into a dangerous tumble, jeopardizing the mission and their life. Finally, while we originally wanted to use real mission audio, we decided on crafting our own situation-appropriate radio chatter, so that instructions were received 'through the player's earbud.'
+
 ###Virtual Reality and the Future in Space
 Currently, astronauts complete their first spacewalk in a VR lab. EVA is inherently dangerous, and it pays to have as much experience as possible under the belt before setting foot outside the Space Station. In the future, that danger could be eliminated through the use of remotely-controlled robots. Equipped with pressure and temperature-sensitive touch, they could be operated with sophisticated motor control by astronauts from within the ISS for inspection and delicate maintenance. Additionally, samll camera drones could be used with VR to provide a spacewalk experience for non-astronauts in space education and outreach programs.
 
