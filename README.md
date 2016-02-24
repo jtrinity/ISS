@@ -24,6 +24,10 @@ ISS and EMU model provided by [NASA and Dark Side of the Jam](https://www.assets
 
 Earth model from [Planet Earth Free](https://www.assetstore.unity3d.com/en/#!/content/23399).
 
+[Rope physics](http://wiki.unity3d.com/index.php/3D_Physics_Based_Rope).
+
+[Rigid body reorientation](http://answers.unity3d.com/questions/417920/how-to-make-a-rigidbody-rotate-towards-an-object-u.html).
+
 Amanda Swenson as Astronaut Swanson.
 
 
