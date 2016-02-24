@@ -10,11 +10,9 @@ The Extravehicular Mobility Unit (EMU) is an advanced spacesuit which provides m
 ###The Learning Objective
 Unlike its predecessor, the Manned Maneuvering Unit, the SAFER system is intended for emergency use only. It has only been used once in a test at its introduction. It has never been used in a live emergency, nor has it been purposed for operations other than self-rescue. In this simulation, an astronaut is presented with a situation in which they must repurpose their SAFER system to rescue a fellow spacewalker. This operation will help users learn about the ISS and the dangers astronauts face while perfroming EVA.
 
-###The Scenario
-Astronaut Swanson has experienced a failure of the SAFER propulsion system after an anomalous event propelled her away from the ISS during a maintenance exercise. Buddy, the player, must use their own emergency propulsion system to safely navigate their way to the stranded astronaut, and bring her back to safety.
-
 ###The Simulation
 <iframe width="420" height="315" src="https://www.youtube.com/embed/VDDnuZAL9ps" frameborder="0" allowfullscreen></iframe>
+Astronaut Swanson has experienced a failure of the SAFER propulsion system after an anomalous event propelled her away from the ISS during a maintenance exercise. Buddy, the player, must use their own emergency propulsion system to safely navigate their way to the stranded astronaut, and bring her back to safety.
 
 ###Presence
 Implementing an effective training simulation demands a high sense of presence. To create a convincing environment, we used models of the ISS and EMUs developed in collaboration with NASA. The player has a body so that when they look down they can see their suit and propulsion system and really 'feel' in the hotseat. One of the main purposes the sim is to accustom the user to making their way around outside of the station, so we have implemented movement which simulates the difficulty of navigating in a zero gravity environment. If the astronaut is not careful and runs into a rail, they can easily send theirself into a dangerous tumble, jeopardizing the mission and their life. Finally, while we originally wanted to use real mission audio, we decided on crafting our own situation-appropriate radio chatter, so that instructions were received 'through the player's earbud.'
