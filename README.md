@@ -12,7 +12,7 @@ Astronaut Swanson has experienced a failure of the SAFER propulsion system after
 
 ###Acknowledgements
 ISS and EMU model provided by [NASA and Dark Side of the Jam](https://www.assetstore.unity3d.com/en/#!/content/756).
-Earth model from [Planet Earth Free](https://www.assetstore.unity3d.com/en/#!/content/23399)Earth Model.
+<p>Earth model from [Planet Earth Free](https://www.assetstore.unity3d.com/en/#!/content/23399)Earth Model.</p>
 Amanda Swenson as Astronaut Swanson.
 
 
