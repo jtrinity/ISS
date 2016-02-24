@@ -1,17 +1,11 @@
- My portfolio
+###The ISS
+The International Space station is a collaboration between 26 countries to maintain a platform for space exploration and research. Flying 400km above the surface of the Earth, it is the largest and most visble man-made object in space and can be seen from almost anywhere on the planet as it completes an orbit every 90 minutes.
 
-My name is [Dan Nguyen](http://twitter.com/dancow)
+###The Learning Objective
+EMU propulsion system for EVA rescue.
 
-* [Bastards Book of Regular Expressions](http://regex.bastardsbook.com/)  - A free ebook on how to use regular expressions for everyday informational purposes
+###The Scenario
+Astronaut Swanson has experienced a failure of the SAFER propulsion system after an anomalous event propelled them away from the ISS during a maintenance exercise. Buddy, the player, must use their own emergency propulsion system to safely navigate their way to the stranded astronaut, and bring her back to safety.
 
-* [Eye Heart New York](http://tumblr.eyeheartnewyork.com) - A Tumblr of my New York photos
-
-* [I Heart NY Museums](http://iheartnymuseums.com/) - A really old interactive map showing open/free hours at local museums
-
-A picture of someone playing the didgeridoo
-
-![alt text](http://i.imgur.com/2i35DTo.jpg)
-
-Here's video of that performance:
-
-<iframe width="640" height="360" src="//www.youtube.com/embed/dfCd2eQfueY?list=UUw7F4bJbtGwORQwMBxlGb6w" frameborder="0" allowfullscreen></iframe>
+###Acknowledgements
+NASA, Earth Model, Amanda Swenson as astronaut Swanson
