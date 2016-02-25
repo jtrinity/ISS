@@ -14,6 +14,9 @@ Unlike its predecessor, the Manned Maneuvering Unit, the SAFER system is intende
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5LZCjK6y4_4" frameborder="0" allowfullscreen></iframe>
 Astronaut Swanson has experienced a failure of the SAFER propulsion system after an anomalous event propelled her away from the ISS during a maintenance exercise. Buddy, the player, must use their own emergency propulsion system to safely navigate their way to the stranded astronaut, and bring her back to safety.
 
+[Get the .apk](https://www.dropbox.com/s/b3reegyhqx0imdl/ISS.apk?dl=0)
+[Get the source](https://www.dropbox.com/s/dl6kkb6ieen1rvw/ISS.7z?dl=0)
+
 ###Presence
 Implementing an effective training simulation demands a high sense of presence. To create a convincing environment, we used models of the ISS and EMUs developed in collaboration with NASA. The player has a body so that when they look down they can see their suit and propulsion system and really 'feel' in the hotseat. One of the main purposes the sim is to accustom the user to making their way around outside of the station, so we have implemented movement which simulates the difficulty of navigating in a zero gravity environment. If the astronaut is not careful and runs into a rail, they can easily send theirself into a dangerous tumble, jeopardizing the mission and their life. Finally, while we originally wanted to use real mission audio, we decided on crafting our own situation-appropriate radio chatter, so that instructions were received 'through the player's earbud.'
 
