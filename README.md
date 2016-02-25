@@ -8,10 +8,10 @@ The International Space station is a collaboration between 26 countries to maint
 The Extravehicular Mobility Unit (EMU) is an advanced spacesuit which provides mobility and life support to astronauts performing extravehicular activity (EVA) or "spacewalks" outside the ISS and the retired NASA Space Shuttle. Since 1994, the suits have been equipped with Simplified Aid for EVA Rescue (SAFER) propulsive backpack systems, which provide astronauts with a means of returning to the spacecraft if they become untethered during a spacewalk. 
 
 ###The Learning Objective
-Unlike its predecessor, the Manned Maneuvering Unit, the SAFER system is intended for emergency use only. It has only been used once in a test at its introduction. It has never been used in a live emergency, nor has it been purposed for operations other than self-rescue. In this simulation, an astronaut is presented with a situation in which they must repurpose their SAFER system to rescue a fellow spacewalker. This operation will help users learn about the ISS and the dangers astronauts face while perfroming EVA.
+Unlike its predecessor, the Manned Maneuvering Unit, the SAFER system is intended for emergency use only. It has only been used once in a test at its introduction. It has never been used in a live emergency, nor has it been purposed for operations other than self-rescue. In this simulation, an astronaut is presented with a situation in which they must re-purpose their SAFER system to rescue a fellow space-walker. This operation will help users learn about the ISS and the dangers astronauts face while performing EVA.
 
 ###The Simulation
-<iframe width="420" height="315" src="https://www.youtube.com/embed/VDDnuZAL9ps" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/ez_WrufH9dA" frameborder="0" allowfullscreen></iframe>
 Astronaut Swanson has experienced a failure of the SAFER propulsion system after an anomalous event propelled her away from the ISS during a maintenance exercise. Buddy, the player, must use their own emergency propulsion system to safely navigate their way to the stranded astronaut, and bring her back to safety.
 
 ###Presence
